@@ -1,0 +1,8 @@
+{
+  "name": "Routine",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "462e35a5"
+}
